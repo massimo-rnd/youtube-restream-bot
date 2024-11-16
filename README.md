@@ -1,17 +1,15 @@
-![Repo-Image](https://druffko.gg/github-images/youtubebot.png)
-
 <div align="center">
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/druffko/youtube-restream-bot?include_prereleases)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/massimo-rnd/youtube-restream-bot?include_prereleases)
 
 ![.NET Version](https://img.shields.io/badge/stability-testing-yellow)
-![GitHub last commit](https://img.shields.io/github/last-commit/druffko/youtube-restream-bot)
+![GitHub last commit](https://img.shields.io/github/last-commit/massimo-rnd/youtube-restream-bot)
 
   <br>
 
-  ![GitHub All Releases](https://img.shields.io/github/downloads/druffko/youtube-restream-bot/total)
-  ![GitHub closed issues](https://img.shields.io/github/issues-closed/druffko/youtube-restream-bot)
-  ![GitHub issues](https://img.shields.io/github/issues/druffko/youtube-restream-bot)
+  ![GitHub All Releases](https://img.shields.io/github/downloads/massimo-rnd/youtube-restream-bot/total)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed/massimo-rnd/youtube-restream-bot)
+  ![GitHub issues](https://img.shields.io/github/issues/massimo-rnd/youtube-restream-bot)
   
   <h1>Youtube Restream Bot</h1>
   <p>
@@ -46,7 +44,7 @@ YouTube Restream Bot is a Python script that automatically starts a restream of 
 
 ### Download the latest version
 
-To start off, please head to the [releases page](https://github.com/druffko/youtube-restream-bot/releases) and download the latest release version.
+To start off, please head to the [releases page](https://github.com/massimo-rnd/youtube-restream-bot/releases) and download the latest release version.
 
 ### Setting Up OBS
 Please make sure to have the OBS Websocket Plugin installed.
@@ -86,8 +84,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- **druffko** - [@druffko](https://twitter.com/druffko) - hi@druffko.gg
-- **Project Link** - https://github.com/druffko/youtube-restream-bot
+- **massimo-rnd** - [@massimo_rnd](https://twitter.com/massimo_rnd) - hi@massimo.gg
+- **Project Link** - https://github.com/massimo-rnd/youtube-restream-bot
 
 Feel free to reach out if you have any questions or suggestions!
 
